@@ -8,7 +8,7 @@
       "estadio": "Stadio Olimpico",
       "liga": "Serie A",
       "escudo": "roma",
-      "audio": "roma"
+      "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/roma.mp4"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "estadio": "Estadio Municipal",
       "liga": "Preferente",
       "escudo": "alcala_dos",
-      "audio": "rsdalcala"
+      "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/rsdalcala.mp4"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "estadio": "Santiago Bernabeu",
       "liga": "La Liga",
       "escudo": "madrid",
-      "audio": "realmadrid"
+      "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/realmadrid.mp4"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "estadio": "San Siro",
       "liga": "Serie A",
       "escudo": "milan",
-      "audio": "milan"
+      "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/milan.mp4"
     },
     {
       "id": 5,
@@ -48,8 +48,9 @@
       "estadio": "Emirates Stadium",
       "liga": "Premier League",
       "escudo": "arsenal",
-      "audio": "arsenal"
+      "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/arsenal.mp4"
     }
+  
   ],
   "jugadores": [
     {
