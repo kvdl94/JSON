@@ -52,47 +52,292 @@
     }
   ],
   "jugadores": [
-    { "nombre": "Virgil van Dijk", "posicion": "Defensa", "media": 91, "valor": 85, "recurso": "vandijk" },
-    { "nombre": "Rúben Dias", "posicion": "Defensa", "media": 89, "valor": 75, "recurso": "rubendias" },
-    { "nombre": "Antonio Rüdiger", "posicion": "Defensa", "media": 87, "valor": 60, "recurso": "rudiger" },
-    { "nombre": "Marquinhos", "posicion": "Defensa", "media": 88, "valor": 70, "recurso": "marquinhos" },
-    { "nombre": "Éder Militão", "posicion": "Defensa", "media": 89, "valor": 80, "recurso": "militao" },
-    { "nombre": "David Alaba", "posicion": "Defensa", "media": 85, "valor": 50, "recurso": "alaba" },
-    { "nombre": "João Cancelo", "posicion": "Defensa", "media": 88, "valor": 75, "recurso": "cancelo" },
-    { "nombre": "Trent Alexander-Arnold", "posicion": "Defensa", "media": 86, "valor": 70, "recurso": "trent" },
-    { "nombre": "Theo Hernández", "posicion": "Defensa", "media": 87, "valor": 68, "recurso": "theo" },
-    { "nombre": "Alphonso Davies", "posicion": "Defensa", "media": 88, "valor": 80, "recurso": "davies" },
-    { "nombre": "Asencio", "posicion": "Defensa", "media": 73, "valor": 25, "recurso": "asencio" },
-    { "nombre": "Kevin De Bruyne", "posicion": "Centrocampista", "media": 92, "valor": 10, "recurso": "debruyne" },
-    { "nombre": "Luka Modric", "posicion": "Centrocampista", "media": 89, "valor": 40, "recurso": "modric" },
-    { "nombre": "Jude Bellingham", "posicion": "Centrocampista", "media": 91, "valor": 12, "recurso": "bellingham" },
-    { "nombre": "Rodri", "posicion": "Centrocampista", "media": 90, "valor": 90, "recurso": "rodri" },
-    { "nombre": "Bruno Fernandes", "posicion": "Centrocampista", "media": 88, "valor": 80, "recurso": "fernandes" },
-    { "nombre": "Joshua Kimmich", "posicion": "Centrocampista", "media": 89, "valor": 85, "recurso": "kimmich" },
-    { "nombre": "Federico Valverde", "posicion": "Centrocampista", "media": 88, "valor": 90, "recurso": "valverde" },
-    { "nombre": "Martin Ødegaard", "posicion": "Centrocampista", "media": 87, "valor": 75, "recurso": "odegaard" },
-    { "nombre": "Declan Rice", "posicion": "Centrocampista", "media": 87, "valor": 70, "recurso": "rice" },
-    { "nombre": "Pedri", "posicion": "Centrocampista", "media": 90, "valor": 10, "recurso": "pedri" },
-    { "nombre": "Erling Haaland", "posicion": "Delantero", "media": 94, "valor": 15, "recurso": "haaland" },
-    { "nombre": "Kylian Mbappe", "posicion": "Delantero", "media": 95, "valor": 18, "recurso": "mbappe" },
-    { "nombre": "Lionel Messi", "posicion": "Delantero", "media": 93, "valor": 50, "recurso": "messi" },
-    { "nombre": "Cristiano Ronaldo", "posicion": "Delantero", "media": 89, "valor": 35, "recurso": "cr7" },
-    { "nombre": "Harry Kane", "posicion": "Delantero", "media": 91, "valor": 11, "recurso": "kane" },
-    { "nombre": "Vinicius Jr.", "posicion": "Delantero", "media": 92, "valor": 12, "recurso": "vini" },
-    { "nombre": "Mohamed Salah", "posicion": "Delantero", "media": 91, "valor": 90, "recurso": "salah" },
-    { "nombre": "Robert Lewandowski", "posicion": "Delantero", "media": 91, "valor": 70, "recurso": "lewandoski" },
-    { "nombre": "Karim Benzema", "posicion": "Delantero", "media": 90, "valor": 60, "recurso": "benzema" },
-    { "nombre": "Victor Osimhen", "posicion": "Delantero", "media": 89, "valor": 95, "recurso": "oshimen" },
-    { "nombre": "Thibaut Courtois", "posicion": "Portero", "media": 92, "valor": 90, "recurso": "curtois" },
-    { "nombre": "Alisson Becker", "posicion": "Portero", "media": 91, "valor": 85, "recurso": "allison" },
-    { "nombre": "Ederson Moraes", "posicion": "Portero", "media": 90, "valor": 80, "recurso": "ederson" },
-    { "nombre": "Marc-Andre ter Stegen", "posicion": "Portero", "media": 89, "valor": 75, "recurso": "terstegen" },
-    { "nombre": "Jan Oblak", "posicion": "Portero", "media": 91, "valor": 90, "recurso": "oblak" },
-    { "nombre": "Mike Maignan", "posicion": "Portero", "media": 89, "valor": 80, "recurso": "maignan" },
-    { "nombre": "Gianluigi Donnarumma", "posicion": "Portero", "media": 90, "valor": 85, "recurso": "donnarumma" },
-    { "nombre": "Emiliano Martínez", "posicion": "Portero", "media": 88, "valor": 70, "recurso": "emiliano" },
-    { "nombre": "Andre Onana", "posicion": "Portero", "media": 87, "valor": 65, "recurso": "onana" },
-    { "nombre": "Aaron Ramsdale", "posicion": "Portero", "media": 86, "valor": 60, "recurso": "aaron" }
+    {
+      "nombre": "Virgil van Dijk",
+      "posicion": "Defensa",
+      "media": 91,
+      "valor": 85,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/vandijk.webp"
+    },
+    {
+      "nombre": "Rúben Dias",
+      "posicion": "Defensa",
+      "media": 89,
+      "valor": 75,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/rubendias.webp"
+    },
+    {
+      "nombre": "Antonio Rüdiger",
+      "posicion": "Defensa",
+      "media": 87,
+      "valor": 60,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/rudiger.webp"
+    },
+    {
+      "nombre": "Marquinhos",
+      "posicion": "Defensa",
+      "media": 88,
+      "valor": 70,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/marquinhos.webp"
+    },
+    {
+      "nombre": "Éder Militão",
+      "posicion": "Defensa",
+      "media": 89,
+      "valor": 80,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/militao.webp"
+    },
+    {
+      "nombre": "David Alaba",
+      "posicion": "Defensa",
+      "media": 85,
+      "valor": 50,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/alaba.webp"
+    },
+    {
+      "nombre": "João Cancelo",
+      "posicion": "Defensa",
+      "media": 88,
+      "valor": 75,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/cancelo.webp"
+    },
+    {
+      "nombre": "Trent Alexander-Arnold",
+      "posicion": "Defensa",
+      "media": 86,
+      "valor": 70,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/trent.webp"
+    },
+    {
+      "nombre": "Theo Hernández",
+      "posicion": "Defensa",
+      "media": 87,
+      "valor": 68,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/theo.webp"
+    },
+    {
+      "nombre": "Alphonso Davies",
+      "posicion": "Defensa",
+      "media": 88,
+      "valor": 80,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/davies.webp"
+    },
+    {
+      "nombre": "Asencio",
+      "posicion": "Defensa",
+      "media": 73,
+      "valor": 25,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/asencio.webp"
+    },
+    {
+      "nombre": "Kevin De Bruyne",
+      "posicion": "Centrocampista",
+      "media": 92,
+      "valor": 10,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/debruyne.webp"
+    },
+    {
+      "nombre": "Luka Modric",
+      "posicion": "Centrocampista",
+      "media": 89,
+      "valor": 40,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/modric.webp"
+    },
+    {
+      "nombre": "Jude Bellingham",
+      "posicion": "Centrocampista",
+      "media": 91,
+      "valor": 12,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/bellingham.webp"
+    },
+    {
+      "nombre": "Rodri",
+      "posicion": "Centrocampista",
+      "media": 90,
+      "valor": 90,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/rodri.webp"
+    },
+    {
+      "nombre": "Bruno Fernandes",
+      "posicion": "Centrocampista",
+      "media": 88,
+      "valor": 80,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/fernandes.webp"
+    },
+    {
+      "nombre": "Joshua Kimmich",
+      "posicion": "Centrocampista",
+      "media": 89,
+      "valor": 85,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/kimmich.webp"
+    },
+    {
+      "nombre": "Federico Valverde",
+      "posicion": "Centrocampista",
+      "media": 88,
+      "valor": 90,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/valverde.webp"
+    },
+    {
+      "nombre": "Martin Ødegaard",
+      "posicion": "Centrocampista",
+      "media": 87,
+      "valor": 75,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/odegaard.webp"
+    },
+    {
+      "nombre": "Declan Rice",
+      "posicion": "Centrocampista",
+      "media": 87,
+      "valor": 70,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/rice.webp"
+    },
+    {
+      "nombre": "Pedri",
+      "posicion": "Centrocampista",
+      "media": 90,
+      "valor": 10,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/pedri.webp"
+    },
+    {
+      "nombre": "Erling Haaland",
+      "posicion": "Delantero",
+      "media": 94,
+      "valor": 15,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/haaland.webp"
+    },
+    {
+      "nombre": "Kylian Mbappe",
+      "posicion": "Delantero",
+      "media": 95,
+      "valor": 18,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/mbappe.webp"
+    },
+    {
+      "nombre": "Lionel Messi",
+      "posicion": "Delantero",
+      "media": 93,
+      "valor": 50,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/messi.webp"
+    },
+    {
+      "nombre": "Cristiano Ronaldo",
+      "posicion": "Delantero",
+      "media": 89,
+      "valor": 35,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/cr7.webp"
+    },
+    {
+      "nombre": "Harry Kane",
+      "posicion": "Delantero",
+      "media": 91,
+      "valor": 11,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/kane.webp"
+    },
+    {
+      "nombre": "Vinicius Jr.",
+      "posicion": "Delantero",
+      "media": 92,
+      "valor": 12,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/vini.webp"
+    },
+    {
+      "nombre": "Mohamed Salah",
+      "posicion": "Delantero",
+      "media": 91,
+      "valor": 90,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/salah.webp"
+    },
+    {
+      "nombre": "Robert Lewandowski",
+      "posicion": "Delantero",
+      "media": 91,
+      "valor": 70,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/lewandoski.webp"
+    },
+    {
+      "nombre": "Karim Benzema",
+      "posicion": "Delantero",
+      "media": 90,
+      "valor": 60,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/benzema.webp"
+    },
+    {
+      "nombre": "Victor Osimhen",
+      "posicion": "Delantero",
+      "media": 89,
+      "valor": 95,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/oshimen.webp"
+    },
+    {
+      "nombre": "Thibaut Courtois",
+      "posicion": "Portero",
+      "media": 92,
+      "valor": 90,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/curtois.webp"
+    },
+    {
+      "nombre": "Alisson Becker",
+      "posicion": "Portero",
+      "media": 91,
+      "valor": 85,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/allison.webp"
+    },
+    {
+      "nombre": "Ederson Moraes",
+      "posicion": "Portero",
+      "media": 90,
+      "valor": 80,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/ederson.webp"
+    },
+    {
+      "nombre": "Marc-Andre ter Stegen",
+      "posicion": "Portero",
+      "media": 89,
+      "valor": 75,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/terstegen.webp"
+    },
+    {
+      "nombre": "Jan Oblak",
+      "posicion": "Portero",
+      "media": 91,
+      "valor": 90,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/oblak.webp"
+    },
+    {
+      "nombre": "Mike Maignan",
+      "posicion": "Portero",
+      "media": 89,
+      "valor": 80,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/maignan.webp"
+    },
+    {
+      "nombre": "Gianluigi Donnarumma",
+      "posicion": "Portero",
+      "media": 90,
+      "valor": 85,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/donnarumma.webp"
+    },
+    {
+      "nombre": "Emiliano Martínez",
+      "posicion": "Portero",
+      "media": 88,
+      "valor": 70,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/emiliano.webp"
+    },
+    {
+      "nombre": "Andre Onana",
+      "posicion": "Portero",
+      "media": 87,
+      "valor": 65,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/onana.webp"
+    },
+    {
+      "nombre": "Aaron Ramsdale",
+      "posicion": "Portero",
+      "media": 86,
+      "valor": 60,
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/aaron.webp"
+    }
   ]
 }
-
