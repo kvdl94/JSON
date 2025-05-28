@@ -58,14 +58,14 @@
       "posicion": "Defensa",
       "media": 91,
       "valor": 85,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/vandijk.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/vanDijk.webp"
     },
     {
       "nombre": "Rúben Dias",
       "posicion": "Defensa",
       "media": 89,
       "valor": 75,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/rubendias.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/RubenDias.webp"
     },
     {
       "nombre": "Antonio Rüdiger",
@@ -79,7 +79,7 @@
       "posicion": "Defensa",
       "media": 88,
       "valor": 70,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/marquinhos.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/Maqrquinhos.webp"
     },
     {
       "nombre": "Éder Militão",
@@ -107,14 +107,14 @@
       "posicion": "Defensa",
       "media": 86,
       "valor": 70,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/trent.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/alexanderArnold.webp"
     },
     {
       "nombre": "Theo Hernández",
       "posicion": "Defensa",
       "media": 87,
       "valor": 68,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/theo.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/theoHernandez.webp"
     },
     {
       "nombre": "Alphonso Davies",
@@ -135,7 +135,7 @@
       "posicion": "Centrocampista",
       "media": 92,
       "valor": 10,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/debruyne.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/deBruyne.webp"
     },
     {
       "nombre": "Luka Modric",
@@ -163,7 +163,7 @@
       "posicion": "Centrocampista",
       "media": 88,
       "valor": 80,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/fernandes.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/BrunoFernandes.webp"
     },
     {
       "nombre": "Joshua Kimmich",
@@ -184,7 +184,7 @@
       "posicion": "Centrocampista",
       "media": 87,
       "valor": 75,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/odegaard.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/odegard.webp"
     },
     {
       "nombre": "Declan Rice",
@@ -296,7 +296,7 @@
       "posicion": "Portero",
       "media": 89,
       "valor": 75,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/terstegen.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/terStegen.webp"
     },
     {
       "nombre": "Jan Oblak",
@@ -310,14 +310,14 @@
       "posicion": "Portero",
       "media": 89,
       "valor": 80,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/maignan.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/mikeMaignan.webp"
     },
     {
       "nombre": "Gianluigi Donnarumma",
       "posicion": "Portero",
       "media": 90,
       "valor": 85,
-      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/donnarumma.webp"
+      "imagen": "https://raw.githubusercontent.com/kvdl94/JSON/main/Jugadores/Donnarumma.webp"
     },
     {
       "nombre": "Emiliano Martínez",
