@@ -7,7 +7,7 @@
       "fundacion": 1927,
       "estadio": "Stadio Olimpico",
       "liga": "Serie A",
-      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/roma.png",
+      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/roma.webp",
       "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/roma.mp4"
     },
     {
@@ -17,7 +17,7 @@
       "fundacion": 1929,
       "estadio": "Estadio Municipal",
       "liga": "Preferente",
-      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/alcala_dos.png",
+      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/alcala_dos.webp",
       "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/rsdalcala.mp4"
     },
     {
@@ -27,7 +27,7 @@
       "fundacion": 1902,
       "estadio": "Santiago Bernabeu",
       "liga": "La Liga",
-      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/madrid.png",
+      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/madrid.webp",
       "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/realmadrid.mp4"
     },
     {
@@ -37,7 +37,7 @@
       "fundacion": 1899,
       "estadio": "San Siro",
       "liga": "Serie A",
-      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/milan.png",
+      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/milan.webp",
       "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/milan.mp4"
     },
     {
@@ -47,7 +47,7 @@
       "fundacion": 1886,
       "estadio": "Emirates Stadium",
       "liga": "Premier League",
-      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/arsenal.png",
+      "escudo": "https://raw.githubusercontent.com/kvdl94/JSON/main/escudos/arsenal.webp",
       "video": "https://raw.githubusercontent.com/kvdl94/JSON/main/videos/arsenal.mp4"
     }
   
